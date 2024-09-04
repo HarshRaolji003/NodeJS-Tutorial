@@ -1,2 +1,2 @@
-# Simplilearn Node.js Tutorial <br>
--Run `npm install`  to install dependencies.
+# Simplilearn Node.js Tutorial
+Run `npm install`  to install dependencies.
